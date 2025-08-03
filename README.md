@@ -1,10 +1,11 @@
-👨‍💻 About Me
+#👨‍💻 About Me
+
 SDE | Full Stack Developer at Altwise Pvt. Ltd., Pune (June 2025 – Present)
 Final-year B.Tech CSE (AI) student at Parul University (2021–2025) with hands-on experience in full stack development, React Native, Node.js, and machine learning. I enjoy solving real-world problems with clean, scalable code.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠 Skills
+#🛠 Skills
 
 Frontend: React.js, React Native, HTML, CSS, JavaScript
 
@@ -18,7 +19,7 @@ Others: Git & GitHub, REST APIs, DSA, OOPs, Time Management, Team Collaboration
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎓 Education
+#🎓 Education
 
 B.Tech in Computer Science (Artificial Intelligence)
 Parul University, Vadodara, Gujarat
@@ -32,7 +33,7 @@ Bharti Vidya Bhavan’s Public School, Tadepalligudem (2018–2019) – 78.4%
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🏆 Achievements & Certifications
+#🏆 Achievements & Certifications
 
 Developed Resume Analyzer using BERT for semantic screening
 
@@ -50,21 +51,24 @@ Participated in Hackathons and ML internships
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📁 Key Projects
+#📁 Key Projects
+
+Full Stack Complaint Management – React Native + Node.js + MySQL
 
 Resume Analyzer – BERT, Transformers, Semantic Ranking
 
 OCR Scanner App – Flutter + OCR
 
-Full Stack Complaint Management – React Native + Node.js + MySQL
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 How to Reach Me
+#📫 How to Reach Me
 
 📧 Email: harshkahate25@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/harshkahate3101
+
 💻 GitHub: github.com/harsh25kahate
+
 📍 Location: Pune, Maharashtra
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
