@@ -1,16 +1,21 @@
 
 
-👋 Hi there! I'm a final year student currently in my 7th semester. My journey in the tech world began with a strong foundation in Java and Data Structures and Algorithms (DSA). Recently, I've embarked on an exciting adventure in Android development.
+👋 Hi, I'm Harsh — a Computer Science undergrad passionate about Artificial Intelligence, Machine Learning, and building real-world solutions.
 
-### Skills
+🔍 I specialize in:
 
-- **Java**: Proficient in object-oriented programming, building robust applications, and solving complex problems.
-- **Data Structures and Algorithms (DSA)**: Skilled in optimizing solutions and improving performance through efficient algorithms and data management.
-- **Android Development**: Currently learning and developing Android applications, focusing on creating user-friendly and responsive mobile experiences.
+Natural Language Processing (NLP) & Transformers (BERT, semantic search, resume ranking)
 
+End-to-end ML pipelines (data cleaning, feature engineering, model training, evaluation)
 
+OCR and image-to-text tools for mobile applications
 
-### Get in Touch
+Forecasting, classification, and regression projects using Python, Scikit-learn, and SQL
 
-I'm always eager to learn new technologies and take on challenging projects. Feel free to connect with me on GitHub, and let's collaborate!
-.
+🧠 I enjoy turning data into insights, automating workflows, and exploring how AI can solve practical problems.
+
+📱 Tech Stack: Python | React Native | JavaScript | SQL | Git | ML | NLP | HTML/CSS
+
+📌 Projects: Resume Analyzer (BERT-based), Gold Price Prediction, Fake News Detection, OCR Scanner App
+
+📫 Let’s connect: LinkedIn | GitHub
